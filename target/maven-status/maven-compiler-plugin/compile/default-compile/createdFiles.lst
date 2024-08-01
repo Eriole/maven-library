@@ -1,0 +1,4 @@
+com\example\classes\HibernateConfig.class
+com\example\classes\BookService.class
+com\example\App.class
+com\example\classes\Book.class
